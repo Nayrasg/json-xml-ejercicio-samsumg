@@ -1,0 +1,67 @@
+{
+    "supermercados": [
+        {
+            "supermercado uno": [
+                {
+                    "nombre": "Alcampo",
+                    "direccion": "Calle Priruleta 7",
+                    "geolocalizacion": ["28.46378091716744, -16.30650844158579"],
+                    "productos": [
+                        {
+                            "nombre": "Tomate ensalada",
+                            "unidades": 3,
+                            "origen": "España",
+                            "precio": 1.50,
+                            "unidadMedida": "Kilogramos",
+                            "periodoVigencia": "31/06/22",
+                            "oferta": false,
+                            "habitual": true
+                        },
+                        {
+                            "nombre": "Pimiento vede",
+                            "unidades": 1,
+                            "origen": "Holanda",
+                            "precio": 0.50,
+                            "unidadMedida": "Kilogramos",
+                            "periodoVigencia": "22/05/22",
+                            "oferta": true,
+                            "habitual": true
+                        }
+                    ]
+                }
+
+            ],
+            "supermercado dos": [
+                {
+                    "nombre": "Mercadona",
+                    "direccion": "Calle Maria Rosa Alonso",
+                    "geolocalizacion": ["28.470525545614816, -16.29368103201866"],
+                    "productos": [
+                        {
+                            "nombre": "Guacamole",
+                            "unidades": 1,
+                            "origen": "España",
+                            "precio": 2.50,
+                            "unidadMedida": "unidad",
+                            "periodoVigencia": "31/04/22",
+                            "oferta": false,
+                            "habitual": false
+                        },
+                        {
+                            "nombre": "Paquete Muesli",
+                            "unidades": 1,
+                            "origen": "España",
+                            "precio": 2,
+                            "unidadMedida": "unidad",
+                            "periodoVigencia": "01/01/23",
+                            "oferta": true,
+                            "habitual": true
+                        }
+                    ]
+                }
+
+            ]
+        }
+
+    ]
+}

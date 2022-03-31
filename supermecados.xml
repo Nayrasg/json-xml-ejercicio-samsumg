@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supermercados>
+    <supermercado_uno>
+      <nombre>Alcampo</nombre>
+      <direccion>Calle Priruleta 7</direccion>
+      <geolocalizacion>28.46378091716744, -16.30650844158579</geolocalizacion>
+      <productos>
+        <nombre>Tomate ensalada</nombre>
+        <unidades>3</unidades>
+        <origen>España</origen>
+        <precio>1.5</precio>
+        <unidadMedida>Kilogramos</unidadMedida>
+        <periodoVigencia>31/06/22</periodoVigencia>
+        <oferta>false</oferta>
+        <habitual>true</habitual>
+      </productos>
+      <productos>
+        <nombre>Pimiento vede</nombre>
+        <unidades>1</unidades>
+        <origen>Holanda</origen>
+        <precio>0.5</precio>
+        <unidadMedida>Kilogramos</unidadMedida>
+        <periodoVigencia>22/05/22</periodoVigencia>
+        <oferta>true</oferta>
+        <habitual>true</habitual>
+      </productos>
+    </supermercado_uno>
+    <supermercado_dos>
+      <nombre>Mercadona</nombre>
+      <direccion>Calle Maria Rosa Alonso</direccion>
+      <geolocalizacion>28.470525545614816, -16.29368103201866</geolocalizacion>
+      <productos>
+        <nombre>Guacamole</nombre>
+        <unidades>1</unidades>
+        <origen>España</origen>
+        <precio>2.5</precio>
+        <unidadMedida>unidad</unidadMedida>
+        <periodoVigencia>31/04/22</periodoVigencia>
+        <oferta>false</oferta>
+        <habitual>false</habitual>
+      </productos>
+      <productos>
+        <nombre>Paquete Muesli</nombre>
+        <unidades>1</unidades>
+        <origen>España</origen>
+        <precio>2</precio>
+        <unidadMedida>unidad</unidadMedida>
+        <periodoVigencia>01/01/23</periodoVigencia>
+        <oferta>true</oferta>
+        <habitual>true</habitual>
+      </productos>
+    </supermercado_dos>
+  </supermercados>
